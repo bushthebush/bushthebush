@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-**bushthebush/bushthebush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm Bushrah,currently exploring the world of data.
+I'm Bushrah also bushthebush
 
 💡 I’m working on: Excel, data cleaning, and beginner-friendly projects  
 🎯 Goals: Become a data analyst, collaborate on projects and makd impacts 
