@@ -8,4 +8,4 @@ I'm Bushrah also bushthebush
 📂 Portfolio: On this GitHub, you'll find projects that showcase my skill.
 🌱 Fun Fact: I love romantic movies and Excel formulas equally!
 
-Let’s connect!
+Let’s connect - https://www.linkedin.com/in/bushrah-adebayo/
